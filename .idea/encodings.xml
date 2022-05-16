@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Save" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/flatlaf-2.1.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/pgslookandfeel-1.1.2.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/level/obj/EnemyShellObj.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/sxh/主界面.form" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/sxh/主界面.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/sxh/关于.form" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/sxh/关于.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/sxh/登录界面.form" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/sxh/登录界面.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/sxh/账号密码_注册.form" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/sxh/账号密码_注册.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
